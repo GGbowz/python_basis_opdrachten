@@ -15,7 +15,5 @@ print(test_tekst)
 voornaam = "albert"
 achternaam = "einstein"
 
-voornaam = "albert"
-achternaam = "einstein"
-tekst = f"{voornaam} {achternaam} " "zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!'"
-print(tekst.title())
+tekst = f"{voornaam.capitalize()} {achternaam.capitalize()} zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!'"
+print(tekst)
