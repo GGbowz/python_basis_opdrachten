@@ -2,4 +2,4 @@
 # Naam student:
 # Groep:
 
-# importeer de module csv...
+Opdracht 2
